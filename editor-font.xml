@@ -2,7 +2,7 @@
   <component name="DefaultFont">
     <option name="VERSION" value="1" />
     <option name="FONT_FAMILY" value="MonoLisa" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Black" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Black" />
   </component>
 </application>
