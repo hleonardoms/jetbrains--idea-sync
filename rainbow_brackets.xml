@@ -1,0 +1,7 @@
+<application>
+  <component name="RainbowSettings">
+    <option name="bigFilesLinesThreshold" value="4000" />
+    <option name="disableRainbowIndentsInZenMode" value="false" />
+    <option name="version" value="6.25" />
+  </component>
+</application>
