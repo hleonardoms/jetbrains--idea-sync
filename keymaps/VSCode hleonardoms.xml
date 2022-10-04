@@ -37,6 +37,9 @@
   <action id="ViewMainMenu">
     <keyboard-shortcut first-keystroke="shift ctrl alt m" />
   </action>
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
   <action id="ViewToolButtons">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
