@@ -12,7 +12,6 @@
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Encoding" value="false" />
         <entry key="LineSeparator" value="false" />
-        <entry key="Memory" value="true" />
         <entry key="Notifications" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="WakaTime" value="false" />
