@@ -1,0 +1,10 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine" />
+        <option value="package:mine level:error " />
+      </list>
+    </option>
+  </component>
+</application>
