@@ -1,6 +1,6 @@
 <application>
   <component name="RainbowSettings">
-    <option name="bigFilesLinesThreshold" value="10000" />
+    <option name="bigFilesLinesThreshold" value="50000" />
     <option name="disableRainbowIndentsInZenMode" value="false" />
     <option name="version" value="6.26" />
   </component>
