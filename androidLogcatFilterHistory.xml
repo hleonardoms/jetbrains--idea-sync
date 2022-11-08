@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:info " />
+        <option value="package:mine level:info clubProtege" />
         <option value="package:mine" />
         <option value="package:mine 500" />
         <option value="package:mine " />
